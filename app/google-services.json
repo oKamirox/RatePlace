@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "590377803776",
+    "firebase_url": "https://rateplace-dbbc4.firebaseio.com",
+    "project_id": "rateplace-dbbc4",
+    "storage_bucket": "rateplace-dbbc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590377803776:android:32da5b991a42986d",
+        "android_client_info": {
+          "package_name": "com.example.rateplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590377803776-sj78f5ippc5lnqp4i637pt2dnjpt3obm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rateplace",
+            "certificate_hash": "18012cfee25f73d27dcd60d63e95fbf38a80d78b"
+          }
+        },
+        {
+          "client_id": "590377803776-hhi8o7rtr8bl4g1frua3ftv81cartc6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-BPTFBKb6fikesQq6573tjvXeRzyBIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590377803776-hhi8o7rtr8bl4g1frua3ftv81cartc6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

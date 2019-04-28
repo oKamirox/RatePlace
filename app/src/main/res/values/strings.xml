@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RatePlace</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Profile Soon</string>
+    <string name="permission_rationale_location">string</string>
+
+    <string name="permission_required_toast">string</string>
+
+    <string name="location_permission_denied">string</string>
+    <string name="msg_switch_network">Для корректного использования приложения Вам нужно включить геолокацию</string>
+    <string name="map_not_ready">Map is not ready yet</string>
+    <string name="stop_animation">\u25A0</string>
+    <string name="animate">Animate</string>
+    <string name="left_arrow">\u2190</string>
+    <string name="down_arrow">\u2193</string>
+    <string name="up_arrow">\u2191</string>
+    <string name="right_arrow">\u2192</string>
+    <string name="zoom_in">+</string>
+    <string name="zoom_out">-</string>
+    <string name="tilt_less">\u2193</string>
+    <string name="tilt_more">\u2191</string>
+    <string name="duration">Custom Duration</string>
+    <string name="go_to_bondi">Go to Bondi</string>
+    <string name="go_to_sydney">Go to Sydney</string>
+</resources>
